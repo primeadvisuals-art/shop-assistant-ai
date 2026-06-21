@@ -1,0 +1,14 @@
+{
+  "name": "da25855c-d9fd-4974-9a1c-de054b08f7c0",
+  "displayName": "Order assistant AI agent",
+  "rootAgent": "Root agent",
+  "loggingSettings": {
+    "conversationLoggingSettings": {
+      "retentionWindow": "31536000s"
+    }
+  },
+  "guardrails": ["Default Safety Guardrail", "Default Prompt Guardrail"],
+  "timeZoneSettings": {
+    "timeZone": "America/Los_Angeles"
+  }
+}
